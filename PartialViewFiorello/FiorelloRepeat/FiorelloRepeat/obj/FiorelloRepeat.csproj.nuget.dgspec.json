@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\PartialView\\PartialViewFiorello\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj": {
+    "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\PartialView\\PartialViewFiorello\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\PartialView\\PartialViewFiorello\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj",
         "projectName": "FiorelloRepeat",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\PartialView\\PartialViewFiorello\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\FiorelloRepeat\\FiorelloRepeat\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\PartialView\\PartialViewFiorello\\FiorelloRepeat\\FiorelloRepeat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

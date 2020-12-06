@@ -24,6 +24,10 @@ namespace FiorelloRepeat
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromSeconds(30);
+            });
             services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(options => {
                 options.UseSqlServer(_config["ConnectionString:Default"]); 
@@ -37,6 +41,7 @@ namespace FiorelloRepeat
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseSession(); 
             app.UseStaticFiles();
             app.UseRouting();
 

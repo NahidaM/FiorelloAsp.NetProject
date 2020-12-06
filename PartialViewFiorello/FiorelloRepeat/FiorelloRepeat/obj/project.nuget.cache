@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ebqJTXlBSzQpAZhkI4ZhX14MblfGq7saZFlBEjABDHZalsyn/KAkm+ewXv7slGr+2/kPkjm13ct73Et7uX74fg==",
+  "dgSpecHash": "/h0EJ5sC/9jlhbfFqhqgQKPxytO+XckH3/qe4D1orxKuI8WiCnvKCwiXBB7zzBcrYh87okw+P2kqOU1aYYe0ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\Desktop\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\PartialView\\PartialViewFiorello\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
