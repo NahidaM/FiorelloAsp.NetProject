@@ -18,7 +18,8 @@ namespace FiorelloRepeat.Controllers
         public IActionResult Index() 
         {
             ViewBag.ProCount = _db.Products.Count();
-            return View(_db.Products.Take(8).ToList()); 
+            //return View(_db.Products.Take(8).ToList()); 
+            return View(); 
         }
 
         public IActionResult loadMore(int skip)

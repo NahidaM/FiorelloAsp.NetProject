@@ -9,8 +9,9 @@ namespace FiorelloRepeat.Models
     public class Category
     {
         public int Id { get; set; }
-        [Required, StringLength(50)]
+        [Required (ErrorMessage="Bosh saxlamaq olmaz"), StringLength(50, ErrorMessage = "Maksimum 50 simvol istifade oluna biler")]
         public string Name { get; set; }
+        public string Description { get; set; } 
         public bool IsDeleted { get; set; }
         public DateTime? DeletedTime { get; set; }
         public ICollection<Product> Products { get; set; } 

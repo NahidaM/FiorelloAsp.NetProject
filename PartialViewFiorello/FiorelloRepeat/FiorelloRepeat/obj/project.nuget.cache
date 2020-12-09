@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/h0EJ5sC/9jlhbfFqhqgQKPxytO+XckH3/qe4D1orxKuI8WiCnvKCwiXBB7zzBcrYh87okw+P2kqOU1aYYe0ow==",
+  "dgSpecHash": "ZbYEKC+dRY2jJoZ50h5zPGi47f46B2HNEc4voPgqwpx025hZJirMtS7rcYHQ7tdJ2XRsJ9rdyJnGFng2mw2K2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\PartialView\\PartialViewFiorello\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\Code Academy\\Back-end\\p117-07-12-2020---viewomponent---area-NahidaM\\FiorelloProject\\PartialViewFiorello\\FiorelloRepeat\\FiorelloRepeat\\FiorelloRepeat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

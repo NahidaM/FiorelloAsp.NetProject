@@ -26,7 +26,7 @@ namespace FiorelloRepeat.Controllers
             Response.Cookies.Append("surname", "Mamishova", new CookieOptions {MaxAge=TimeSpan.FromMinutes(25)}); 
             HomeVM homeVM = new HomeVM
             {
-                Products = _db.Products.Include(p=>p.Category).Where(p=>p.IsDeleted==false).ToList(),
+                //Products = _db.Products.Include(p=>p.Category).Where(p=>p.IsDeleted==false).ToList(),
                 Categories = _db.Categories.Where(p => p.IsDeleted == false).ToList() 
 
             };
